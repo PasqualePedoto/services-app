@@ -1,7 +1,7 @@
 // Import all libraries
 const express = require("express");
-const Users = require("./middleware/users");
-const Services = require("./middleware/services");
+const Users = require("./src/middleware/users");
+const Services = require("./src/middleware/services");
 
 // Create express application and define port (default ip address is localhost)
 const app = express();

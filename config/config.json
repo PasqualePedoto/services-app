@@ -1,0 +1,14 @@
+{
+  "development": {
+    "dialect": "sqlite",
+    "storage": "/Users/pasqualepedoto/hope.db"
+  },
+  "test": {
+    "dialect": "sqlite",
+    "storage": "/Users/pasqualepedoto/hope.db"
+  },
+  "production": {
+    "dialect": "sqlite",
+    "storage": "/Users/pasqualepedoto/hope.db"
+  }
+}
